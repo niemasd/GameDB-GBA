@@ -1,1 +1,1 @@
-Boktai 2 - Solar Boy Django
+Boktai 2: Solar Boy Django
